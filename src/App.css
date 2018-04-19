@@ -1,15 +1,15 @@
 
 body {
-  background-color: #3e3e3e;
+  background-color: #4e4b4b;
 }
 
 #container {
   display: flex;
   text-align: center;
-  box-shadow: 1px 1px 1px 1px #0A0A0A;
+  box-shadow: 2px 2px 2px 2px #0A0A0A;
   background-color: white;
   width: 200px;
-  margin: 300px auto;
+  margin: 200px auto;
   padding-bottom: 10px;
 }
 
@@ -34,4 +34,10 @@ body {
 
 h3 {
   margin: 10px 0 10px 0;
+}
+
+#err {
+  color: #6c2012;
+  text-align: center;
+  margin: 0 auto;
 }
